@@ -5,6 +5,8 @@ using System.Xml.Linq;
 using static System.Net.Mime.MediaTypeNames;
 //V1.ODEME SİSTEMİ: Form1 hem UI'yi yönetiyor, hem de ödeme mantığını içeriyor.
 //Bu kötü bir tasarım. Çünkü tek sorumluluk prensibine aykırı.
+
+
 namespace Odeme_Sistemi
 {
     public partial class Form1 : Form
